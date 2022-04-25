@@ -1,0 +1,2 @@
+# symcache
+PDB sym cache
